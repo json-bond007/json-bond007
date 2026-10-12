@@ -1,2 +1,2 @@
 # About me
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?json-bond007=YOUR_USERNAME&theme=nord_dark)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=json-bond007&theme=nord&hide_title=true&border_radius=4&custom_title=My+stats&size=compact)
